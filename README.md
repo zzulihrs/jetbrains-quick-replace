@@ -12,7 +12,7 @@
             <keyboard-shortcut keymap="$default" first-keystroke="control 0"/>
       </action>
       
-      其中first-keystroke就是映射的按键，修改修改id且对应上class
+      其中first-keystroke就是映射的按键，还需要修改id和对应class
 ```
 4(build)构建插件后，在IDE中通过定义的快捷键即可实现文本替换功能。
 5![img.png](img.png)
